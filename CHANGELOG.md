@@ -2,6 +2,18 @@
 
 # Changelog
 
+## [0.11.16](https://github.com/tekumara/fakesnow/compare/v0.11.15...v0.11.16) (2026-08-27)
+
+
+### Features
+
+* support * as an argument to OBJECT_CONSTRUCT ([#395](https://github.com/tekumara/fakesnow/issues/395)) ([9b7e4d3](https://github.com/tekumara/fakesnow/commit/9b7e4d3bfbfadfb2c46ea481078c2532ab14d4b8))
+
+
+### Chores
+
+* bump dev venv to python 3.11 ([cf0b6d3](https://github.com/tekumara/fakesnow/commit/cf0b6d31b55c26d3e8ace08c080931e49f5c7378))
+
 ## [0.11.15](https://github.com/tekumara/fakesnow/compare/v0.11.14...v0.11.15) (2026-08-25)
 
 
